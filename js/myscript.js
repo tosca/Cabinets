@@ -1,0 +1,1 @@
+<script>document.getElementById('year').innerHTML = Date()</script>
